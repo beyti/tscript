@@ -1,0 +1,2 @@
+# tscript
+typescript demo
